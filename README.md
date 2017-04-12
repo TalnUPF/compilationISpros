@@ -17,9 +17,9 @@ In order to reproduce the experiments described in [1] you need to firstly downl
 
 The following data are made available from our corpus on read speech:
 
-       - Binary files: intensity and pitch objects created using Praat from raw speech files.
-       - TextGrids: segmentation into words and thematicity spans.
-       - Arff files: the sentence span database (SSD) and the thematicity span database (TSD).
+       - Binary files: intensity and pitch objects created using Praat from raw speech files are included in binary_intensity.zip and binary_pitch1/2/3.zip.
+       - TextGrids: segmentation into words and thematicity spans are includid in thematicity.zip.
+       - Arff files: the sentence span database (SSD) and the thematicity span database (TSD) are included in arff.zip.
 	
 ###################
 ## Praat Scripts
