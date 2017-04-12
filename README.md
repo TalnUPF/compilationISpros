@@ -49,9 +49,13 @@ No raw speech files are made available in order to comply with EU and National d
 #####################
 ## References and Citation
 #####################
+
 If you use this software, data or modify the code please cite the following publication:
 
      - [1] Domínguez, M., M. Farrús, J. Codina and L. Wanner (2017). Thematicity-based Prosody Enrichment for a TTS System. Submitted to Interspeech 2017, Stockholm, Sweden.
+
+Further references:
+
      - [2] Domínguez, M., I. Latorre, M. Farrús, J. Codina and L. Wanner (2016d). Praat on the Web: An Upgrade of Praat for Semi-Automatic Speech Annotation. In Proceedings of the 25th International Conference on Computational Linguistics, Osaka, Japan.
      - [3] Domínguez, M., M. Farrús and L. Wanner (2016c). An Automatic Prosody Tagger for Spontaneous Speech. In Proceedings of the 25th International Conference on Computational Linguistics, Osaka, Japan.
   
