@@ -6,6 +6,7 @@ This repository contains data and code as well as instructions to reproduce our 
 ###################
 
 In order to reproduce the experiments described in [1] you need to firstly download and install the following software:
+
        - Weka Data Mining software [2] from the following link http://www.cs.waikato.ac.nz/ml/weka/downloading.html
        - Praat for feature annotation [3] from our repository https://github.com/monikaUPF/featureAnnotationforPraat
     NB: The extension of Praat for feature annotation currently works under Lynux
@@ -15,6 +16,7 @@ In order to reproduce the experiments described in [1] you need to firstly downl
 ###################
 
 The following data are made available from our corpus on read speech:
+
        - Binary files: intensity and pitch objects created using Praat from raw speech files.
        - TextGrids: segmentation into words and thematicity spans.
        - Arff files: the sentence span database (SSD) and the thematicity span database (TSD).
@@ -30,7 +32,8 @@ These modules require the extension of Praat for feature annotation [2] to run. 
 ## Reproducibility instructions
 ###################
 
-In order to reproduce our experiments from the beginning you need to follow these steps: 
+In order to reproduce our experiments from the beginning you need to follow these steps:
+
       1. download  and install the required software;
       2. download speech data and praat scripts;
       3. run the 5 modules on the data;
@@ -41,7 +44,7 @@ In order to reproduce our experiments from the beginning you need to follow thes
 ## Note on Personal Data Protection
 #####################
 
-No raw speech files are made available in order to comply with data protection legislations. Voice data are considered sensitive data as they may be used to identify individuals. The binary files made available in this repository comply with anonymization ans pseudonymization requirements from this legislation as it is not possible to reconstruct the original voice only from these binary files. On the other hand, binary files are enough to reproduce our experiments from the scientific point of view. 
+No raw speech files are made available in order to comply with EU and National data protection legislations. Voice data are considered sensitive data as they may be used to identify individuals. The binary files made available in this repository comply with anonymization ans pseudonymization requirements from this legislation as it is not possible to reconstruct the original voice only from these binary files. On the other hand, binary files are enough to reproduce our experiments from the scientific point of view. 
 
 #####################
 ## References and Citation
