@@ -52,7 +52,7 @@ No raw speech files are made available in order to comply with EU and National d
 
 If you use this software, data or modify the code please cite the following publication:
 
-     - [1] Domínguez, M., M. Farrús, and L. Wanner (2017). Thematicity-based Prosody Enrichment for a TTS System. Submitted to Interspeech 2017, Stockholm, Sweden.
+     - [1] Domínguez, M., Burga, A., M. Farrús, and L. Wanner (2018). Compilation of Corpora to Study the information Structure-Prosody Interface. Submitted to LREC, Miyazaki, Japan.
 
 Further references:
 
