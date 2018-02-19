@@ -25,7 +25,7 @@ The following data are made available from our corpus on read speech:
 ## Scripts
 ###################
 
-The whole pipeline conssists in 7 modules. Except for module 1 that is written in python, the rest are Praat scripts. Scripts for extraction of acoustic parameters, feature annotation and exporting to txt format consist in 6 modules (from 2 to 7).
+The whole pipeline consists in 7 modules. Except for module 1 that is written in python, the rest are Praat scripts. Scripts for extraction of acoustic parameters, feature annotation and exporting to txt format consist in 6 modules (from 2 to 7).
 These modules require the extension of Praat for feature annotation (see [3]) to run. They do not run on standard Praat. These modules include the improved intensity detection module presented in [4]. The modules need to be executed in order (from 1 to 7).
 
 ###################
